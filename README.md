@@ -1,2 +1,3 @@
-# rishit
-Starting of jurny
+just starting practice of html
+and css
+
